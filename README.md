@@ -2,11 +2,11 @@
 
 # 计算机视觉期末项目总结报告
 
-| 成员   | 孙延都、王茜    |
-| :--- | :-------- |
-| 指导教师 | 亓琳        |
-| 日期   | 2024.6.21 |
-
+|    成员     |                         孙延都、王茜                         |
+| :---------: | :----------------------------------------------------------: |
+|  指导教师   |                             亓琳                             |
+|    日期     |                          2024.6.21                           |
+| B站视频链接 | 第一部分：https://www.bilibili.com/video/BV1xk3uexEzy/?spm_id_from=333.1296.top_right_bar_window_dynamic.content.click&vd_source=80fe153544abb76cee0ca91410014be6；第二部分：https://www.bilibili.com/video/BV1Tz3uetEaP/?spm_id_from=333.999.0.0&vd_source=80fe153544abb76cee0ca91410014be6 |
 [TOC]
 
 # 1. 绪论 Introduction
